@@ -38,11 +38,13 @@ I hope this Simple Music Cloud Community System will help you with what you are 
 
 Explore more on this website for more source codes and tutorials.
 
+<img src="https://github.com/pepelawycliffe/music_pod/blob/main/1.png">
+<img src="https://github.com/pepelawycliffe/music_pod/blob/main/2.png">
+<img src="https://github.com/pepelawycliffe/music_pod/blob/main/3.png">
+<img src="https://github.com/pepelawycliffe/music_pod/blob/main/4.png">
+
  
- <img width="964" alt="java" src="https://github.com/pepelawycliffe/music_pod/blob/master/1.png">
- <img width="964" alt="java" src="https://github.com/pepelawycliffe/music_pod/blob/master/2.png">
- <img width="964" alt="java" src="https://github.com/pepelawycliffe/music_pod/blob/master/3.png">
- <img width="964" alt="java" src="https://github.com/pepelawycliffe/music_pod/blob/master/4.png">
+ 
  
  
  
