@@ -2,12 +2,9 @@ Sample Downloaded Music: https://www.bensound.com
 ---------------------------------------------------
 Admin Access
 email: admin@admin.com
-password: admin123
+password: 
 ----------------------------------------------------
-Sample User Access
-email: jsmith@sample.com
-password: jsmith123
-----------------------------------------------------
+-----------------------------
 Project: Simple Music Cloud Community System using PHP/MySQLi
 
 About The Project
@@ -40,5 +37,7 @@ Open a web browser and browse the project. E.g [http://localhost/music-cloud-com
 I hope this Simple Music Cloud Community System will help you with what you are looking for, feel free to download and modify the source code.
 
 Explore more on this website for more source codes and tutorials.
+
+ <img src="1.png" alt="image" >
 
 Enjoy!
