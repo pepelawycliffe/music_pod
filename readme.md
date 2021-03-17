@@ -38,9 +38,13 @@ I hope this Simple Music Cloud Community System will help you with what you are 
 
 Explore more on this website for more source codes and tutorials.
 
- <img src="1.png" alt="image" >
- <img width="964" alt="java 8 and prio java 8  array review example" src="https://github.com/pepelawycliffe/music_pod/blob/master/1.png">
- <img src="https://github.com/pepelawycliffe/music_pod/blog/main/1.png">
+ 
+ <img width="964" alt="java" src="https://github.com/pepelawycliffe/music_pod/blob/master/1.png">
+ <img width="964" alt="java" src="https://github.com/pepelawycliffe/music_pod/blob/master/2.png">
+ <img width="964" alt="java" src="https://github.com/pepelawycliffe/music_pod/blob/master/3.png">
+ <img width="964" alt="java" src="https://github.com/pepelawycliffe/music_pod/blob/master/4.png">
+ 
+ 
  
 
 Enjoy!
