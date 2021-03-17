@@ -39,5 +39,7 @@ I hope this Simple Music Cloud Community System will help you with what you are 
 Explore more on this website for more source codes and tutorials.
 
  <img src="1.png" alt="image" >
+ <img src="https://github.com/pepelawycliffe/music_pod/blob/main/1.png" width="400">
+ https://github.com/pepelawycliffe/pepelawycliffe.git
 
 Enjoy!
